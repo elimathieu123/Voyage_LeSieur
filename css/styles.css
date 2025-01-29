@@ -105,9 +105,11 @@ nav a:hover{
     font-size: 36px;
     font-weight: 300;
     text-align: center;
+    
 }
 .conteneur-transport p{
     text-align: center;
+    margin-bottom: 80px;
 }
 /*footer*/
 footer .wrapper ul li a{
@@ -157,4 +159,5 @@ footer ul{
     display: flex;
     list-style: none;
     gap: 20px;
+    
 }
